@@ -1,0 +1,92 @@
+---
+- summary: |
+    Проверка регистрации
+  status: pass
+
+- summary: |
+    Проверка авторизации
+  status: pass
+
+- summary: |
+    Проверка авторизации через сервисы github
+  status: pass
+
+- summary: |
+    Проверка авторизации через сервисы discord
+  status: pass
+
+- summary: |
+    Проверка востановления пароля
+  status: pass
+
+- summary: |
+    Проверка настроек учётной записи
+  status: pass
+
+- summary: |
+    проверка создания игры
+  status: pass
+
+- summary: |
+    Проверка присоединение к созданной игре как участник
+  status: pass
+
+- summary: |
+    Проверка возможности наблюдения за игрой
+  status: pass
+
+- summary: |
+    Проверка работы чата
+  status: pass
+
+- summary: |
+    Возможность отслеживания статистики 
+  status: pass
+
+- summary: |
+    Проверка создания собственных задач для игр
+  status: pass
+
+- summary: |
+    История завершенных игр пользователя
+  status: pass
+
+- summary: |
+    Проверка регистрации пользователя с некорректным Email
+  status: pass
+
+- summary: |
+    Проверка регистрации пользователя с некорректным Password
+  status: pass
+
+- summary: |
+    Проверка авторизации пользователя с некорректным Email
+  status: pass
+
+- summary: |
+    Проверка авторизации пользователя с некорректным Password
+  status: pass
+
+- summary: |
+    Проверка авторизации не зарегистрированого пользователя
+  status: pass
+
+- summary: |
+    Проверка Востановления пароля с некорректным Email
+  status: pass
+
+- summary: |
+    Присоединение к новой игре при участии в другой
+  status: pass
+
+- summary: |
+    Проверка просмотра записи игры
+  status: pass
+
+- summary: |
+    Проверка вызова опонента на реванш
+  status: pass
+
+- summary: |
+    Проверка изменения цветовой темы редактора кода
+  status: pass
